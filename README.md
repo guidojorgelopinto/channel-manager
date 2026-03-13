@@ -15,6 +15,7 @@ Proyecto full‑stack para gestionar disponibilidad y reservas de habitaciones. 
 - MySQL2
 - API REST
 - Git / GitHub
+- Integración de herramientas de IA para asistencia en desarrollo, documentación y optimización del código.
 
 ---
 
@@ -90,6 +91,10 @@ json
   "cliente": "Juan Pérez",
   "canal": "Booking"
 }
+
+## Uso de IA
+
+Este proyecto fue desarrollado con apoyo de herramientas de inteligencia artificial para acelerar tareas de documentación, depuración y generación de código.
 
 Autor
 Guido – Desarrollador Full Stack
